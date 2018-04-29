@@ -1,5 +1,5 @@
 # AR-shoppping
-To run the project in your device oyu need to install Unity and install the Vuforial librabry.
+To run this project in your device you need to install Unity.
 This is a protoype version of our project AR in shopping, any one can download and contribute in this project.
 
 ## Inspiration
@@ -14,5 +14,5 @@ We build this project using Unity and blender. In Unity, we used the vuforia lib
 ## Challenges I ran into 
 We're new to Unity and blender, which was the primary challenge. Creating a 3d model in blender and implementing in our project was difficult. 
 
-##Future Updates
+## Future Updates 
 When developing this project we found that for the 3D animation for the target body we need to make an algorithm using TensorFlow, which is a free AI tool by google, our team in working in that particular aspect and will relesae the final version very soon.
